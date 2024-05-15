@@ -21,8 +21,8 @@ End the program
 ## PROGRAM:
 ```
 program to find the number of words in a text file
-Developed by : STEPHEN RAJ.Y
-Register number : 212223230217
+Developed by :VEDHASHREE.G
+Register number : 212223240171
 
 num=0
 with open("story.txt","r") as f1:
@@ -33,9 +33,6 @@ print("The number of words are in the file is ",num)
 ```
 
 ### OUTPUT:
-![Screenshot 2024-05-09 111204](https://github.com/23002248/Word-Count/assets/151701774/314f81ff-4b01-4bba-94b1-887ca47621b8)
-![image](https://github.com/23002248/Word-Count/assets/151701774/6cf5905c-e4aa-42bf-ba7b-42256f3fcf2b)
-
 
 
 
